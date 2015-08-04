@@ -1,5 +1,7 @@
 # solve-linear-equations
-API for solving system of linear equations. Find more APIs or contribute at [SaturnAPI.com](https://saturnapi.com).
+API for solving system of linear equations. Start using it, go to [saturnapi.com/artitw/solve-linear-equations](https://saturnapi.com/artitw/solve-linear-equations). 
+
+Find more APIs or contribute at [SaturnAPI.com](https://saturnapi.com).
 
 ```
  %%%%%%%%%%%%%%%%%%%%%%%%%% Solving System of Linear Equations %%%%%%%%%%%%%%%%%%%%%%%%%%
